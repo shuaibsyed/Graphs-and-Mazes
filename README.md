@@ -1,2 +1,2 @@
 # Graphs-and-Mazes
-This project was to create a maze solver using different search algorithms to solve it such as breadth first, depth first, and Dijsktras
+The objective of this project was to develop a maze solver using various search algorithms, including breadth-first, depth-first, and Dijkstra's, to find the optimal solution.
